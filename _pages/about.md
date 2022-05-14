@@ -14,9 +14,9 @@ My research interests include machine learning, deep learning with its applicati
 
 What's New
 ======
-* Co-orgranize [SocailNLP Workshop 2022](https://sites.google.com/view/socialnlp2022/) in conjunction with TheWebConf 2022,  NAACL 2022.
-* One paper on fake news detection gets accepted to [The Web Conference (WWW) 2022](https://www2022.thewebconf.org/).
-* 3rd place in E-Sun Bank Credit Card Consumption Category Competition. [玉山人工智慧公開挑戰賽2021冬季賽 - 信用卡消費類別推薦](https://tbrain.trendmicro.com.tw/Competitions/Details/18)
+* Co-orgranize [SocailNLP Workshop 2022](https://sites.google.com/view/socialnlp2022/) in conjunction with The WebConf, NAACL 2022.
+* One paper on fake news detection gets accepted to [The Web Conference (WWW) 2022.](https://www2022.thewebconf.org/)
+* 3rd place in E-Sun Bank Credit Card Consumption Category Competition.<br> [玉山人工智慧公開挑戰賽2021冬季賽 - 信用卡消費類別推薦](https://tbrain.trendmicro.com.tw/Competitions/Details/18)
 * One paper on fake news detection gets accepted to [The Web Conference (WWW) 2022](https://www2022.thewebconf.org/).
 * One paper on sequential recommendation gets accepted to [IEEE/ACM ASONAM 2021](https://asonam.cpsc.ucalgary.ca/2021/) as full papers.
 * One paper on deep learning-based customs fraud detection gets accepted as a full paper by [ACM KDD 2020](https://www.kdd.org/kdd2020/). This work is an joint collaboration with [World Customs Organization (WCO)](http://www.wcoomd.org/). Here is the [press release by World Customs Organization (WCO) official website](http://www.wcoomd.org/en/media/newsroom/2020/may/wco-bacuda-experts-develop-and-share-a-neural-network-model.aspx).
