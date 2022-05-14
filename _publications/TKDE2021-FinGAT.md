@@ -6,4 +6,4 @@ date: 2021-06-18
 venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
 paperurl: 'https://arxiv.org/abs/2106.10159'
 ---
-[Source Code](https://github.com/Roytsai27/Financial-GraphAttention)
+[Source Code](https://github.com/Roytsai27/Financial-GraphAttention) [[Presentation]](https://www.youtube.com/watch?v=ft1jfT74VGo&t=6s)
