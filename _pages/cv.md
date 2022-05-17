@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, National Cheng Kung University, 2020
+* Ph.D in Computer Science and Information Engineering, National Taiwan University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Data Science Lab Research Intern
+  * [Institute of Basic Science, Korea](https://www.ibs.re.kr/eng.do)
+  * Research topic: recommender system, customs fraud detection
+  * Published papers: 1 fraud detection paper in SIGKDD20, 1 recommender system paper in CSoNet19
+  * Advisor: [Meeyoung Cha](https://cs.kaist.ac.kr/people/view?idx=418&kind=faculty&menu=160)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Data Scientist Intern
+  * [Codementor&Arc](https://www.codementor.io/)
+  * Duties included: skulduggery detection, data analyst
+  * Techniques: GCP(BigQuery), AWS(EC2), Flask(Web API), Scikit-learn, Keras, Airflow
+  * Mentor: Bruce Kuo
+
+* 2018-2020: Research Assistant
+  * National Cheng Kung University
+  * Research Topic: recommender sysytem, time series prediction, fraud detection
+  * Supervisor: Professor Cheng-Te Li
+
+* 2017-2020: Teaching Assistant
+  * National Taiwan University
+  * Assited courses: 
+    * Probability (Spring 2021)
+  * Supervisor: Professor Shou-De Lin
+
+* 2017-2020: Teaching Assistant
+  * National Cheng Kung University
+  * Assited courses: 
+    * Social Network and Recommendation System (Spring 2020)
+    * Introduction to Data Science (Spring 2018, Spring 2019)
+    * Introduction to Computers (Fall 2017, Fall 2018)
+  * Supervisor: Professor Cheng-Te Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C, C++
+* Machine/Deep learning frameworks
+  * Pytorch, Keras, Tensorflow
+  * Scikit-learn
 
 Publications
 ======
@@ -42,7 +61,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
