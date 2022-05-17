@@ -31,13 +31,13 @@ Work experience
 * 2018-2020: Research Assistant
   * National Cheng Kung University
   * Research Topic: recommender sysytem, time series prediction, fraud detection
-  * Supervisor: Professor Cheng-Te Li
+  * Supervisor: Professor [Cheng-Te Li](https://sites.google.com/view/chengteli/)
 
 * 2017-2020: Teaching Assistant
   * National Taiwan University
   * Assited courses: 
     * Probability (Spring 2021)
-  * Supervisor: Professor Shou-De Lin
+  * Supervisor: Professor [Shou-De Lin](https://www.csie.ntu.edu.tw/~sdlin/)
 
 * 2017-2020: Teaching Assistant
   * National Cheng Kung University
@@ -45,7 +45,7 @@ Work experience
     * Social Network and Recommendation System (Spring 2020)
     * Introduction to Data Science (Spring 2018, Spring 2019)
     * Introduction to Computers (Fall 2017, Fall 2018)
-  * Supervisor: Professor Cheng-Te Li
+  * Supervisor: Professor [Cheng-Te Li](https://sites.google.com/view/chengteli/)
   
 Skills
 ======
