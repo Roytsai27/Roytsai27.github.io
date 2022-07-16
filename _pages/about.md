@@ -23,6 +23,7 @@ What's New
 
 Work Experience
 ======
+* 2022/06 - Now Machine Learning Scientist intern at [Appier](https://www.appier.com/zh-tw/).
 * 2020/09 - Now Ph.D student in Department of Computer Science and Information Engineering at National Taiwan University.
 * 2019/07 - 2019/08 Research intern at [Data Science Lab](https://ds.ibs.re.kr/) under the supervision of Prof. [Meeyoung Cha](https://cs.kaist.ac.kr/people/view?idx=418&kind=faculty&menu=160) at Daejeon, Korea.
 * 2018/07 - 2018/08 Data Scientis intern at [Arc & Codementor](https://www.codementor.io/)
