@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* 2022 June - 2023 March Machine Learning Scientist
+  * [Appier, AIQUA Professional Service Team](https://www.appier.com/) 
+  * Duties included: Build machine learning recommender system, data analytic tools.  
+  * Supervisor: An-Chun Liang
 * Summer 2019: Data Science Lab Research Intern
   * [Institute of Basic Science, Korea](https://www.ibs.re.kr/eng.do)
   * Research topic: recommender system, customs fraud detection
